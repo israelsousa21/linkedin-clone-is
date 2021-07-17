@@ -1,0 +1,6 @@
+.widgets {
+    position: sticky;
+    flex: 0.2;
+    top: 80px;
+    height: fit-content;
+}
